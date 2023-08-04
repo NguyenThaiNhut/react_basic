@@ -1,0 +1,15 @@
+@import "reset";
+
+//mau tieu chuan
+$primary_1: #00b3cb;
+$primary_2: #f2da00;
+$primary_3: #ec0606;
+
+.demo-1 {
+    $primary_1: rgba(230, 21, 146, 0.963);
+    color: $primary_1;
+}
+
+.demo-2 {
+    color: $primary_1;
+}
